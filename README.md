@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 
 ## About
 
-I’m a Multi Cloud Solution Architect (Azure and AWS) with a strong focus on the Microsoft Azure platform. Supporting enterprise organisations in the Netherlands as consultant, lead developer and architect.
+Cloud Solution and Software Architect with a strong focus on the Microsoft Azure platform. Supporting enterprise organisations in the Netherlands as consultant, lead developer and architect.
 
-Currently employed as a SIG certified software developer, Microsoft certified Azure Architect, AWS certified Solution Architect and certified Scrum Master in the Netherlands. Projects include the energy sector, local and national government organisations, insurance companies and fintech. Peter is also an author of eLearning videos on Microsoft Azure at Packt.
+Currently employed as a fully QSD Certified software consultant, Microsoft Certified Azure Architect and AWS Certified Solution Architect in the Netherlands. Projects include the energy sector, local and national government organisations, insurance companies and fintech. Peter is also an author of eLearning videos on Microsoft Azure at Packt.
 
-Peter focuses on architecting and desiging maintainable, future-proof and resilient platforms and systems. His specialities are .Net, Chatbots, Cloud Native (PaaS), Service Integration and Cloud Solution Design (Microsoft Azure and AWS)
+Peter focuses on architecting and desiging maintainable, future-proof and resilient platforms and systems. His specialities are Serverless, .Net, Cloud Software Architecture, Cloud Native, Service Integration and Cloud Solution Design (Microsoft Azure and AWS)
 
 ## Online Profiles
 * [LinkedIn](https://www.linkedin.com/in/peterrombouts78/)
