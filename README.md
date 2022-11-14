@@ -23,6 +23,5 @@ Peter focuses on architecting and desiging maintainable, future-proof and resili
 
 ## Online Profiles
 * [LinkedIn](https://www.linkedin.com/in/peterrombouts78/)
-* [Blog](https://peterrombouts.nl)
-* [Twitter](https://twitter.com/prombouts)
+* [Sessionize](https://sessionize.com/prombouts/)
 * [Keybase](https://keybase.io/prombouts)
