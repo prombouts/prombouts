@@ -1,27 +1,15 @@
-<!--
-**prombouts/prombouts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ## About
 
-Cloud Solution and Software Architect with a strong focus on the Microsoft Azure platform. Supporting enterprise organisations in the Netherlands as consultant, lead developer and architect.
+I’m a Tech and Product Management Innovation Consultant at ING (CTO–COO Tech and Transformation), where I help scale Productisation across global technology domains. I bring clarity and consistency to how digital products are defined, documented, governed, and adopted, helping teams move faster with greater transparency and control.
 
-Currently employed as a fully QSD Certified software consultant, Microsoft Certified Azure Architect and AWS Certified Solution Architect in the Netherlands. Projects include the energy sector, local and national government organisations, insurance companies and fintech. Peter is also an author of eLearning videos and eBooks on Microsoft Azure at Packt.
+I translate strategy into practical tools teams can use, including an end-to-end Productisation hub with guidance, FAQs, and feedback loops that evolve with real demand. I’m also part of the COO Tech and Transformation AI Taskforce, supporting AI and Copilot adoption through enablement, training resources, and communication grounded in real use cases. In the Digital Product Centre of Excellence, I review product proposals and criteria and help sharpen definitions and ownership for consistent, actionable governance.
 
-Peter focuses on architecting and desiging maintainable, future-proof and resilient platforms and systems. His specialities are Serverless, .Net, Cloud Software Architecture, Cloud Native, Service Integration and Cloud Solution Design (Microsoft Azure and AWS)
+Before ING, I spent nearly a decade at Sogeti as a Principal Consultant, lead developer, and architect, helping enterprise teams design and deliver cloud-native, resilient platforms. My work emphasized maintainability, automation, and pragmatic DevOps. I enjoy coaching teams, strengthening engineering practices, and turning complex requirements into solutions that work in production.
 
-## Online Profiles
-* [LinkedIn](https://www.linkedin.com/in/peterrombouts78/)
-* [Sessionize](https://sessionize.com/prombouts/)
-* [Keybase](https://keybase.io/prombouts)
+Across my work, I stay close to delivery and bring an engineering mindset: I value clean, maintainable solutions and use automation to reduce friction. I’m a Microsoft Certified Azure Solutions Architect Expert and write and teach about Azure and modern engineering practices, including e-learning videos and eBooks for Packt.
+
+## Connect
+
+- [Website](https://peterrombouts.nl)
+- [LinkedIn](https://www.linkedin.com/in/peterrombouts78/)
+- [Sessionize](https://sessionize.com/prombouts/)
