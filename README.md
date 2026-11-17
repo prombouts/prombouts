@@ -6,7 +6,7 @@ I'm a software engineer, cloud architect, and consultant who builds systems that
 
 **Business:** My work spans government, energy, fintech, and insurance, where architecture decisions have to hold up under delivery pressure, regulation, and legacy constraints. I balance resilience, cost, security, and delivery speed, with calm systems thinking and pragmatic trade-offs.
 
-**Writing and teaching:** I write and teach about Azure and DevOps, including e-learning videos and eBooks for Packt. Selected publications on [my blog](https://peterrombouts.nl):
+**Writing and teaching:** I write and teach about Azure and DevOps, including e-learning videos and eBooks for Packt. Selected publications on [my site](https://peterrombouts.nl):
 
 - *Securing Enterprise DevOps Environments*, a Microsoft and Sogeti co-authored eBook
 - *6 Tips to Integrate Security into Your DevOps Practices*, a Sogeti and Microsoft paper
